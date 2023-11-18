@@ -4,10 +4,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_txUVZakr8XOH6hKeTgVCA)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michaelgomes.santos/?hl=pt-br)
 
-![Michael S's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maycomsantos&show_icons=true&theme=dracula)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br>
