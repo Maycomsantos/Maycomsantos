@@ -1,27 +1,30 @@
-### Olá! Eu sou Michael Santos 😀
+### Olá, sou Michael Santos, 
+um apaixonado desenvolvedor com mais de 7 anos de experiência na área. Formado em Análise e desenvolvimento de Sistemas e atualmente pós-graduando em Engenharia de Software, minha jornada tem sido marcada por desafios empolgantes e constante aprendizado.
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://viverdecodigos.com.br/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_txUVZakr8XOH6hKeTgVCA)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michaelgomes.santos/?hl=pt-br)
+Sobre Mim:<br>
 
-### Tecnologias que uso no meu dia
+🚀 Atualmente, trabalho como Desenvolvedor FullStack na IdealnetFibra.<br>
+💡 Tenho um sólido background em PHP, JavaScript, Laravel, Codeigniter, React, Vue Js, React native, Next e outras mais...<br>
+🌱 Estou sempre buscando aprender e aprimorar minhas habilidades.<br>
+📚 Compartilhar conhecimento é uma das minhas paixões, e é por isso que este Github é um espaço dedicado a projetos Open Source e ao compartilhamento de experiências.
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="postgr" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br>
+O que Você Encontrará Aqui:<br>
 
-Apaixonado por tecnologia e educação 
+🛠️ Projetos Open Source: Contribuições para a comunidade e projetos que estou desenvolvendo.<br>
+📝 Artigos e Tutoriais: Compartilhamento de conhecimento através de posts sobre tecnologias, boas práticas e experiências.<br>
+🚀 Portfólio: Uma vitrine dos meus trabalhos e projetos realizados ao longo da minha carreira.
+
+Conecte-se;<br>
+💼 LinkedIn: https://www.linkedin.com/in/maycom-santos/
+
+Vamos trocar experiências e oportunidades profissionais.
+Contribuições São Bem-Vindas
+Se você está aqui, é porque compartilhamos um interesse comum por tecnologia e desenvolvimento. Fique à vontade para explorar meus repositórios, abrir issues, fazer pull requests ou entrar em contato para discutirmos ideias.
+
+Obrigado por visitar! 🚀
+
+Michael Santos<br>
+michaelsantos.the@hotmail.com
 
 ### Ultimos Vídeos postados no canal: 
 
